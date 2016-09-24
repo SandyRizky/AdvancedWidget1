@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">AdvancedWidget1</string>
+    <string name="button">Button</string>
+    <string name="textview">TextView</string>
+    <string name="nama_anak">Nama Anak</string>
+    <string name="umur_anak">Umur Anak</string>
 </resources>
